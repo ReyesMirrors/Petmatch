@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "196219608404",
+    "project_id": "petmatch-77d5b",
+    "storage_bucket": "petmatch-77d5b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:196219608404:android:67710417ae2fa66b28bcc1",
+        "android_client_info": {
+          "package_name": "com.tuuniversidad.petmatch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "196219608404-9pu83jks83ukvmog57e961qb1t59tv41.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tuuniversidad.petmatch",
+            "certificate_hash": "0a3ad42a345b64e0d4027a47d32d7cff00b25459"
+          }
+        },
+        {
+          "client_id": "196219608404-cnq9cl17eir1dsh3kscfd4s04hj39kn3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArrTQBFW8bPY2PMr7ektEYPJN7uZ00KO8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "196219608404-cnq9cl17eir1dsh3kscfd4s04hj39kn3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "196219608404-s9gvt4qp5hg72l7m5qosd815cjsb0s65.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.tuuniversidad.petmatch"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
