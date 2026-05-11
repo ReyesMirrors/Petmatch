@@ -161,5 +161,5 @@ Functions: `firebase deploy --only functions`.
 Estándares: Dart analysis (`flutter analyze`), tests pasan.
 
 ## 📄 Licencia
-MIT License. Ver LICENSE (crear si no existe).
+MIT License. Ver LICENSE.
 
